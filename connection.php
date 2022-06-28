@@ -1,6 +1,6 @@
 <?php
 	//for MySQLi OOP
-	$conn = new mysqli('localhost', 'root', '', 'mydatabase');
+	$conn = new mysqli('remotemysql.com', 'OrkB5sKFpZ', 'cUkePiTeEU', 'OrkB5sKFpZ');
 	if($conn->connect_error){
 	   die("Connection failed: " . $conn->connect_error);
 	}
