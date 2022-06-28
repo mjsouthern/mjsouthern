@@ -6,7 +6,8 @@
         "ext-libevent": "*",
         "ext-curl": "*",
         "ext-sundown": "*",
-        "ext-gd":" *"
+        "ext-imagick": "*",
+        "ext-gd": " *"
     },
     "extra": {
         "heroku": {
